@@ -2,7 +2,7 @@
 Bash script to automatically configure a cluster of fresh Raspberry Pi OS Lite nodes. Based on https://dev.to/awwsmm/building-a-raspberry-pi-hadoop-spark-cluster-8b2
 
 
-If using x86 Debian netinst, install as follows:
+If using x86 Debian netinst, install each node as follows:
 
       install using "raspberrypi" as hostname
       add user "pi" with password "raspberry"
