@@ -14,7 +14,7 @@ Once Linux is installed, login as root and run the commands below:
       usermod -aG sudo pi
       reboot
 
-ToDo:
+To-Do:
 
 - allow user to specify network address range rather than the fixed 192.168.0.1xx
 - script should detect the next available IP address and avoid user input using something like this:
